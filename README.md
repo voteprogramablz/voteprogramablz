@@ -1,6 +1,6 @@
 ### Olá 🐱‍👤
 - 🔭 Procurando uma oportunidade na área de front-end.
-- 🌱 Estudando Javascript e já dando os primeiros passos com React.
+- 🌱 Estudando React
 - 📫 Pode me contactar no discord: André M.#3272
 
 <div>
