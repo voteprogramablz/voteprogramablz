@@ -1,4 +1,4 @@
-### Olá 🐱‍👤
+### Olá🥷👻
 - 🔭 Procurando jobs de front-end web/mobile React.
 - 🌱 Estudando React JS/Native
 - 📫 Pode me contactar no discord: André M.#3272
