@@ -1,7 +1,8 @@
 ### Olá🥷👻
-- 🔭 Procurando jobs de front-end web/mobile React.
-- 🌱 Estudando React JS/Native
-- 📫 Pode me contactar no discord: André M.#3272
+- 💻 Full-stack developer
+- 🔭 Procurando jobs de full-stack web/mobile React JS/Native || Laravel.
+- 🌱 Estudando React JS/Native && Laravel && Node JS
+- 📫 Pode me contactar no discord: André M.#3272 || Whats-app: (41) 9 8755-5234
 
 <div>
   <a href="https://github.com/voteprogramablz">
