@@ -1,7 +1,6 @@
 ### Olá🥷👻
-- 💻 Full-stack developer PL
-- 🔭 Procurando jobs de full-stack web/mobile React JS/Native || Laravel.
-- 🌱 Estudando React JS/Native && Laravel && Node JS
+- 💻 Full-Stack Developer
+- 🔭 Procurando jobs de full-stack web/mobile React JS/Native, Laravel, NodeJs, PHP.
 - 📫 Pode me contactar no discord: André M.#3272 || Whats-app: (41) 9 8755-5234
 
 <div>
