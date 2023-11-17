@@ -1,5 +1,5 @@
 ### Olá🥷👻
-- 💻 Full-Stack Developer
+- 💻 Full-Stack Developer at Nexcore by Selbetti
 - 🔭 Procurando jobs de full-stack web/mobile React JS/Native, Laravel, NodeJs, PHP.
 - 📫 Pode me contactar no discord: André M.#3272 || Whats-app: (41) 9 8755-5234
 
